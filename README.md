@@ -11,7 +11,7 @@ The Hype Document Load extension is a very simple extension designed for Tumult 
 ## Usage
 To use the Hype Document Load extension in your Tumult Hype project:
 1. **Include the Extension**: Add the Hype Document Load JavaScript file to your project.
-2. **Define Your Function**: In `hypeDocument.functions()`, define a function named `HypeDocumentLoad`.
+2. **Define Your Function**: The resource panel define `HypeDocumentLoad`.
 3. **Automatic Execution**: On document load, your `HypeDocumentLoad` function will be automatically executed.
 
 Example Hype Function:
