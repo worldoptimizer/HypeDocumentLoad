@@ -1,7 +1,7 @@
-# Hype Document Load Extension
+# Hype Document Load
 
 ## Overview
-The Hype Document Load extension is a very simple extgension designed for Tumult Hype, enabling animators to easily manage and handle document load events within their Hype projects. This extension provides a streamlined way to execute functions when a Hype document is fully loaded, enhancing the interactivity and responsiveness of Hype animations and applications.
+The Hype Document Load extension is a very simple extension designed for Tumult Hype, enabling animators to easily manage and handle document load events within their Hype projects. This extension provides a streamlined way to execute functions when a Hype document is fully loaded, enhancing the interactivity and responsiveness of Hype animations and applications.
 
 ## Features
 - **Automatic Event Handling**: The extension automatically attaches to the HypeDocumentLoad event, ensuring that your custom functions are called precisely when the Hype document finishes loading.
